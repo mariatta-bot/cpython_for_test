@@ -1,6 +1,6 @@
-****************
-Configure Python
-****************
+*********************
+Configure Python test
+*********************
 
 Build Requirements
 ==================
