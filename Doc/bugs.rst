@@ -12,6 +12,8 @@ It can be sometimes faster to fix bugs yourself and contribute patches to
 Python as it streamlines the process and involves less people. Learn how to
 :ref:`contribute <contributing-to-python>`.
 
+blablabla
+
 Documentation bugs
 ==================
 
